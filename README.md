@@ -15,7 +15,7 @@
 
 > Ensine como se não existisse um monitor para visualizar
 ---
- 🔽 *_Este Prompt em específico foi para orientação no "Visme" pois não consegui utilizar o Powerpoint na minha máquina._*
+ 🔽 *_Este Prompt em específico foi para orientação no "Visme"._*
 
 2. Se comporte como um Experiênte editor web designer e editor gráfico;
 
