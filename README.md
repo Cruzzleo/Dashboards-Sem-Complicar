@@ -1,6 +1,6 @@
 # 📑 Projeto ebook gerado 100% por Inteligências Artificiais
 ---
-# 📔: [Leia aqui!](#output/Ebook-projeto-dio.pdf)
+# 📔: [Leia aqui!]([#output/Ebook-projeto-dio.pdf)
 ---
 ### Tecnologias utilizadas na construção do ebook
  - [ChatGPT](https://chat.openai.com/)
